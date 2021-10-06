@@ -16,7 +16,20 @@ body {
   width: 100px;
   height: 50px;
   border-radius: 10px;
-  background-color: red;
+  background-color: rgba(0, 0, 0);
   text-align: center;
   line-height: 50px;
+  color: aliceblue;
+  font-size: 30px;
+}
+
+.playing {
+  transform: translatey(-20px);
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgba(250, 128, 114, 0.829);
+  text-align: center;
+  line-height: 50px;
+  color: aliceblue;
 }
