@@ -1,2 +1,5 @@
 # drumkit
- A vainilla javascript drum kit
+
+A vainilla javascript drum kit
+
+![preview](./drumkit.png)
